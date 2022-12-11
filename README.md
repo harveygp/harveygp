@@ -9,7 +9,7 @@ Jika ada yang ingin berkenalan dengan saya, kita bisa connect melalui [Linkedin]
 - 📫 How to reach me: harvey.guharelvinop@gmail.com
 
 ### Tech
-  <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="[https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg](https://cdn.worldvectorlogo.com/logos/kotlin-2.svg)" /></a>
+  <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" /></a>
   <br>
   <br>
 
