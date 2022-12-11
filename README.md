@@ -1,12 +1,13 @@
-# Halo semua! 
-Perkenalkan nama saya **Harvey Guharelvino Prabowo**.\
-Saya seorang **Android Development Enthusiast** dan saat ini sedang berada pada semester tingkat akhir di Universitas Pembangunan Nasional Veteran Jakarta.\
-Saya sampai saat ini sudah mendalami pengembangan android development setingkat intermediete yang dibantu dengan back-end pada tingkat pemula.\
-Jika ada yang ingin berkenalan dengan saya, kita bisa connect melalui [Linkedin](https://www.linkedin.com/in/harveygp/)saya ya.
+# Halo everyone! 
+My name is **Harvey Guharelvino Prabowo**.\
+I'm a **Android Development Enthusiast** and right now i'm a college student at Universitas Pembangunan Nasional Veteran Jakarta.\
+until now i'm still learning about Android Development and Back-end .\
+If you want to message me, feel free to connect my [Linkedin](https://www.linkedin.com/in/harveygp/).
 
 - 🔭 I’m currently Looking for work
 - 🌱 I’m currently learning Android Development Expert
 - 📫 How to reach me: harvey.guharelvinop@gmail.com
+- ⚡ Fun fact: I'm currently learning about Jetpack Compose
 
 ### Tech
   <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" /></a>
