@@ -2,7 +2,9 @@
 My name is **Harvey Guharelvino Prabowo**.\
 I'm a **Android Development Enthusiast** and right now i'm a college student at Universitas Pembangunan Nasional Veteran Jakarta.\
 until now i'm still learning about Android Development and Back-end .\
-If you want to message me, feel free to connect my   <a href="https://www.linkedin.com/in/harveygp/" target="_blank"><img src="https://img.shields.io/badge/-Harvey%20GP-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harveygp/" /></a>.
+If you want to message me, feel free to connect my LinkedIn
+
+<a href="https://www.linkedin.com/in/harveygp/" target="_blank"><img src="https://img.shields.io/badge/-Harvey%20GP-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harveygp/" /></a>.
 
 - 🔭 I’m currently Looking for work
 - 🌱 I’m currently learning Android Development Expert
