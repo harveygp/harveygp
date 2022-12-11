@@ -1,16 +1,17 @@
-### Hi there 👋
+# Halo semua! 
+Perkenalkan nama saya **Harvey Guharelvino Prabowo**.\
+Saya seorang **Android Development Enthusiast** dan saat ini sedang berada pada semester tingkat akhir di Universitas Pembangunan Nasional Veteran Jakarta.\
+Saya sampai saat ini sudah mendalami pengembangan android development setingkat intermediete yang dibantu dengan back-end pada tingkat pemula.\
+Jika ada yang ingin berkenalan dengan saya, kita bisa connect melalui [Linkedin](https://www.linkedin.com/in/harveygp/)saya ya.
 
-<!--
-**harveygp/harveygp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently Looking for work
+- 🌱 I’m currently learning Android Development Expert
+- 📫 How to reach me: harvey.guharelvinop@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+<p align="left">
+<a href="https://github.com/gilangadhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
