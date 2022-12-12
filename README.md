@@ -1,4 +1,4 @@
-# Halo everyone! 
+# Hello everyone! 
 My name is **Harvey Guharelvino Prabowo**.\
 I'm a **Android Development Enthusiast** and right now i'm a college student at Universitas Pembangunan Nasional Veteran Jakarta.\
 until now i'm still learning about Android Development and Back-end .\
