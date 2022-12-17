@@ -1,26 +1,26 @@
 # Hello everyone! 
 My name is **Harvey Guharelvino Prabowo**.\
-I'm a **Android Development Enthusiast** and right now i'm a college student at Universitas Pembangunan Nasional Veteran Jakarta.\
+I'm an **Android Development Enthusiast** and right now i'm a college student at Universitas Pembangunan Nasional Veteran Jakarta.\
 until now i'm still learning about Android Development and Back-end .\
-You can check my [resume](https://docs.google.com/document/d/1h3FZvZOyyggUuS-opUP1_IX70FRvJ0cZZOmUe7BFx40/edit?usp=sharing) for any achievement i accomplished  .\
-If you want to know more about me, feel free to connect my LinkedIn 
 
-<a href="https://www.linkedin.com/in/harveygp/" target="_blank"><img src="https://img.shields.io/badge/-Harvey%20GP-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harveygp/" /></a>.
+# 💫 About Me:
+🔭 I’m currently Looking for Work or Intern<br>🌱 I’m currently learning Android Development Expert<br>📫 How to reach me : harvey.guharelvinop@gmail.com<br>⚡ If you want to know more about me , feel free to check my [resume](https://docs.google.com/document/d/1h3FZvZOyyggUuS-opUP1_IX70FRvJ0cZZOmUe7BFx40/edit?usp=sharing)<br>
 
-- 🔭 I’m currently Looking for Work or Intern
-- 🌱 I’m currently learning Android Development Expert
-- 📫 How to reach me: harvey.guharelvinop@gmail.com
-- ⚡ Fun fact: I'm currently learning about Jetpack Compose
 
-### Tech
-  <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" /></a>
-  <br>
-  <br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harveygp) 
 
- 
-<p align="left">
-<a href="https://github.com/gilangadhan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=harveygp&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=harveygp&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harveygp&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=harveygp&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=harveygp&icon=5&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
