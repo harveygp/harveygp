@@ -1,7 +1,7 @@
 # Hello everyone! 
 My name is **Harvey Guharelvino Prabowo**.\
 I'm an **Android Development Enthusiast** and right now i'm a college student at Universitas Pembangunan Nasional Veteran Jakarta.\
-until now i'm still learning about Android Development and Back-end .\
+until now i'm still learning about Android Development and Back-end
 
 # 💫 About Me:
 🔭 I’m currently Looking for Work or Intern<br>🌱 I’m currently learning Android Development Expert<br>📫 How to reach me : harvey.guharelvinop@gmail.com<br>⚡ If you want to know more about me , feel free to check my [resume](https://docs.google.com/document/d/1h3FZvZOyyggUuS-opUP1_IX70FRvJ0cZZOmUe7BFx40/edit?usp=sharing)<br>
