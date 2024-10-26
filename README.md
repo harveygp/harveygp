@@ -1,7 +1,7 @@
 # Hello everyone! 
 My name is **Harvey Guharelvino Prabowo**.\
-I'm a **Front End Development Enthusiast** and right now i'm a fresh graduate from Universitas Pembangunan Nasional Veteran Jakarta.\
-until now i'm still learning about Android and Web Development that focused on front end development
+I'm a **Front End Development Enthusiast** and right now i'm a Front End Developer.\
+until now i'm passionate learning about Android and Web Development that focused on front end development
 
 # 💫 About Me:
 🔭 I’m currently work @AGIT as Front End Developer for web development <br>🌱 I’m currently learning about Front End development for Android and Web Development Expert<br>📫 How to reach me : harvey.guharelvinop@gmail.com<br>⚡ If you want to know more about me , feel free to check my [resume](https://docs.google.com/document/d/1h3FZvZOyyggUuS-opUP1_IX70FRvJ0cZZOmUe7BFx40/edit?usp=sharing)<br>
